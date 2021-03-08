@@ -1,4 +1,4 @@
-# fullyconnected_neural_network_from_scratch
+#Fully Connected Neural Network
 
 ## Part - 1
 - In part 1 we created and trained fully connected neural network from scratch using NumPy.
